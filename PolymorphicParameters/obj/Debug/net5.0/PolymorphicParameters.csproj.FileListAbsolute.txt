@@ -1,0 +1,16 @@
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\bin\Debug\net5.0\PolymorphicParameters.exe
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\bin\Debug\net5.0\PolymorphicParameters.deps.json
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\bin\Debug\net5.0\PolymorphicParameters.runtimeconfig.json
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\bin\Debug\net5.0\PolymorphicParameters.runtimeconfig.dev.json
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\bin\Debug\net5.0\PolymorphicParameters.dll
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\bin\Debug\net5.0\PolymorphicParameters.pdb
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.csproj.AssemblyReference.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.AssemblyInfoInputs.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.AssemblyInfo.cs
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.csproj.CoreCompileInputs.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.dll
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\refint\PolymorphicParameters.dll
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.pdb
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\PolymorphicParameters.genruntimeconfig.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\CompleteCsharpMasterclass\PolymorphicParameters\obj\Debug\net5.0\ref\PolymorphicParameters.dll
