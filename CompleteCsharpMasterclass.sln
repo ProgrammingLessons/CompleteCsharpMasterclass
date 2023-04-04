@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicParameters", "PolymorphicParameters\PolymorphicParameters.csproj", "{15024205-47AB-4BC4-83EC-FC52DE19B6C7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism", "Polymorphism", "{9D02ED58-C83C-4459-A714-2B3BDE077A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15024205-47AB-4BC4-83EC-FC52DE19B6C7} = {9D02ED58-C83C-4459-A714-2B3BDE077A60}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4BBDD0A-C90F-403E-88DD-44F029E7BE60}
