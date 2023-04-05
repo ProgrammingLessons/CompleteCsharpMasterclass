@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadExamp", "ThreadExamp\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExpandoObjectExam", "ExpandoObjectExam", "{3693521F-964D-4886-BC32-CD53AC281D85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpandoObjectExam1", "ExpandoObjectExam1\ExpandoObjectExam1.csproj", "{5A853930-301D-4CED-A42D-1955C8F8F32E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpandoObjectExam1", "ExpandoObjectExam1\ExpandoObjectExam1.csproj", "{5A853930-301D-4CED-A42D-1955C8F8F32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWithVisitorPattern", "DynamicWithVisitorPattern\DynamicWithVisitorPattern.csproj", "{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{5A853930-301D-4CED-A42D-1955C8F8F32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A853930-301D-4CED-A42D-1955C8F8F32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A853930-301D-4CED-A42D-1955C8F8F32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +65,7 @@ Global
 		{1853D0FC-57E7-4156-80F4-E8FFA0247363} = {3E87BA53-CF86-406D-9B3A-52AFE499DF3E}
 		{A8EE4C01-57ED-40D6-8FF4-D79C011F408F} = {1544F700-075D-4013-9DE1-E5E12C684E35}
 		{5A853930-301D-4CED-A42D-1955C8F8F32E} = {3693521F-964D-4886-BC32-CD53AC281D85}
+		{E867E528-0386-49D8-BB14-CBE3BFDC2CAE} = {3693521F-964D-4886-BC32-CD53AC281D85}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4BBDD0A-C90F-403E-88DD-44F029E7BE60}
