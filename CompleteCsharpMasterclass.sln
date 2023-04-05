@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphicParameters", "Po
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{976F7411-A834-4931-A310-0F77E867D86E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency", "Currency\Currency.csproj", "{AD28B0ED-4179-4E08-87C9-C8AEF210A956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Currency", "Currency\Currency.csproj", "{AD28B0ED-4179-4E08-87C9-C8AEF210A956}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Event", "Event", "{3E87BA53-CF86-406D-9B3A-52AFE499DF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelegate", "EventDelegate\EventDelegate.csproj", "{1853D0FC-57E7-4156-80F4-E8FFA0247363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{AD28B0ED-4179-4E08-87C9-C8AEF210A956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD28B0ED-4179-4E08-87C9-C8AEF210A956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD28B0ED-4179-4E08-87C9-C8AEF210A956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1853D0FC-57E7-4156-80F4-E8FFA0247363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1853D0FC-57E7-4156-80F4-E8FFA0247363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1853D0FC-57E7-4156-80F4-E8FFA0247363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1853D0FC-57E7-4156-80F4-E8FFA0247363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7A7CB417-F8DD-4292-B826-410AE8F30704} = {9D02ED58-C83C-4459-A714-2B3BDE077A60}
 		{AD28B0ED-4179-4E08-87C9-C8AEF210A956} = {976F7411-A834-4931-A310-0F77E867D86E}
+		{1853D0FC-57E7-4156-80F4-E8FFA0247363} = {3E87BA53-CF86-406D-9B3A-52AFE499DF3E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4BBDD0A-C90F-403E-88DD-44F029E7BE60}
