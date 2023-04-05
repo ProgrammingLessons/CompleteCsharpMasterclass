@@ -31,3 +31,13 @@ A structure has been made that allows two threads to communicate with each other
 * https://www.c-sharpcorner.com/article/Threads-in-CSharp/
 * https://medium.com/caglargul-blog/c-net-sinyal-yap%C4%B1lar%C4%B1-1a81fc6d3cc3
 * https://github.com/shawnmullings/threading/blob/master/Threading/Program.cs
+
+<hr>
+
+I benefited from different resources during my udemy training.
+My most used resource
+* https://www.gencayyildiz.com/blog/
+* https://www.c-sharpcorner.com/
+* https://www.tutorialspoint.com
+* https://www.geeksforgeeks.org/
+* https://medium.com/
