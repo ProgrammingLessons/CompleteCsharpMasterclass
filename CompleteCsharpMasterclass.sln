@@ -23,11 +23,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExpandoObjectExam", "Expand
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpandoObjectExam1", "ExpandoObjectExam1\ExpandoObjectExam1.csproj", "{5A853930-301D-4CED-A42D-1955C8F8F32E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWithVisitorPattern", "DynamicWithVisitorPattern\DynamicWithVisitorPattern.csproj", "{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicWithVisitorPattern", "DynamicWithVisitorPattern\DynamicWithVisitorPattern.csproj", "{E867E528-0386-49D8-BB14-CBE3BFDC2CAE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extension", "Extension", "{80A26C25-B714-4FA2-A357-CD0C197B361D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodsExam", "ExtensionMethodsExam\ExtensionMethodsExam.csproj", "{200C3189-0630-4833-9B50-C0AA1AA06126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodsExam", "ExtensionMethodsExam\ExtensionMethodsExam.csproj", "{200C3189-0630-4833-9B50-C0AA1AA06126}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Memory", "Memory", "{A74BF3CB-726F-4CC9-A055-C8F124EB3C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryManagement", "MemoryManagement\MemoryManagement.csproj", "{A7895E5D-D70F-4097-BD7B-DE127A0A891A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,10 @@ Global
 		{200C3189-0630-4833-9B50-C0AA1AA06126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{200C3189-0630-4833-9B50-C0AA1AA06126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{200C3189-0630-4833-9B50-C0AA1AA06126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7895E5D-D70F-4097-BD7B-DE127A0A891A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7895E5D-D70F-4097-BD7B-DE127A0A891A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7895E5D-D70F-4097-BD7B-DE127A0A891A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7895E5D-D70F-4097-BD7B-DE127A0A891A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +83,7 @@ Global
 		{5A853930-301D-4CED-A42D-1955C8F8F32E} = {3693521F-964D-4886-BC32-CD53AC281D85}
 		{E867E528-0386-49D8-BB14-CBE3BFDC2CAE} = {3693521F-964D-4886-BC32-CD53AC281D85}
 		{200C3189-0630-4833-9B50-C0AA1AA06126} = {80A26C25-B714-4FA2-A357-CD0C197B361D}
+		{A7895E5D-D70F-4097-BD7B-DE127A0A891A} = {A74BF3CB-726F-4CC9-A055-C8F124EB3C66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4BBDD0A-C90F-403E-88DD-44F029E7BE60}
