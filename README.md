@@ -41,6 +41,7 @@ With C# 4.0, a new feature has been added with dynamic innovations. We can add f
 
 
 # ExtensionMethods
+Extension methods are helper methods.
 
 * https://github.com/adessoTurkey-dotNET/LINQExtension
 <hr>
