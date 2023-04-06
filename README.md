@@ -32,6 +32,17 @@ A structure has been made that allows two threads to communicate with each other
 * https://medium.com/caglargul-blog/c-net-sinyal-yap%C4%B1lar%C4%B1-1a81fc6d3cc3
 * https://github.com/shawnmullings/threading/blob/master/Threading/Program.cs
 
+
+# ExpandoObject
+With C# 4.0, a new feature has been added with dynamic innovations. We can add fields or methods at runtime and use them.
+
+* https://www.ilkayilknur.com/expando-object-icerisine-dinamik-olarak-member-ekleme
+* https://www.gencayyildiz.com/blog/c-expandoobject-ile-dinamik-nesne-olusturma/
+
+
+# ExtensionMethods
+
+* https://github.com/adessoTurkey-dotNET/LINQExtension
 <hr>
 
 I benefited from different resources during my udemy training.
