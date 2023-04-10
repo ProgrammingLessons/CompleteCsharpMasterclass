@@ -37,6 +37,8 @@ A structure has been made that allows two threads to communicate with each other
 
 # ExpandoObject
 With C# 4.0, a new feature has been added with dynamic innovations. We can add fields or methods at runtime and use them.
+Example 1: https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/ExpandoObjectExam1
+Example 2: https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/DynamicWithVisitorPattern
 
 * https://www.ilkayilknur.com/expando-object-icerisine-dinamik-olarak-member-ekleme
 * https://www.gencayyildiz.com/blog/c-expandoobject-ile-dinamik-nesne-olusturma/
