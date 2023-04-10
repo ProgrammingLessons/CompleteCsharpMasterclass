@@ -17,7 +17,7 @@ namespace PolymorphicParameters
             Model = model;
         }
 
-        public new void ShowDetails()
+        public void ShowDetails()
         {
             Console.WriteLine("Brand " + brand + " HP: " + HP + " color:" + Color);
         }

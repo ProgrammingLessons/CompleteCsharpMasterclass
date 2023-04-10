@@ -17,7 +17,7 @@ namespace PolymorphicParameters
         public int HP { get; set; }
         public string Color { get; set; }
 
-        public void ShowDetails()
+        public new void ShowDetails()
         {
             Console.WriteLine("HP: " + HP + " color:" + Color);
         }
