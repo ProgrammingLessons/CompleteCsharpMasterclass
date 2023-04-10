@@ -45,6 +45,16 @@ With C# 4.0, a new feature has been added with dynamic innovations. We can add f
 Extension methods are helper methods.
 
 * https://github.com/adessoTurkey-dotNET/LINQExtension
+
+
+# Assorted Topics
+An example is made that allows the object to be removed from memory after its use is over.
+https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/DisposableTopic
+
+A mathematical code writing example has been made.
+https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/QuadraticEquation
+
+
 <hr>
 
 I benefited from different resources during my udemy training.
