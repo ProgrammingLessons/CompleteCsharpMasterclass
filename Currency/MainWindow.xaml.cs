@@ -28,11 +28,14 @@ namespace Currency
 
         private void dataUpload_Click(object sender, RoutedEventArgs e)
         {
+            // XmlDocument is defined to retrieve data in xml format from the web address.
             XmlDocument xmldoc = new XmlDocument();
             xmldoc.Load("http://www.tcmb.gov.tr/kurlar/today.xml");
             XmlElement rooteleman = xmldoc.DocumentElement;
+            // We read the list by tag name in XML.
             XmlNodeList liste = rooteleman.GetElementsByTagName("Currency");
             List<CurrencyModel> dlist = new List<CurrencyModel>();
+            // We read the data by looping through the read list.
             foreach (var item in liste)
             {
                 CurrencyModel currencyObj = new CurrencyModel();
@@ -43,7 +46,8 @@ namespace Currency
                 string forexSelling = currency.GetElementsByTagName("ForexSelling").Item(0).InnerText;
                 string banknoteBuying = currency.GetElementsByTagName("BanknoteBuying").Item(0).InnerText;
                 string banknoteSelling = currency.GetElementsByTagName("BanknoteSelling").Item(0).InnerText;
-
+                
+                // It is checked whether there is data in the read values.
                 if (!string.IsNullOrEmpty(unit))
                     currencyObj.Unit = Convert.ToInt32(unit);
                 if (!string.IsNullOrEmpty(forexBuying))
@@ -58,7 +62,7 @@ namespace Currency
                 dlist.Add(currencyObj);
 
             }
-
+            // We bind the created list to the table.
             dataGridCurrency.ItemsSource = dlist;
         }
     }
