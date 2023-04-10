@@ -21,6 +21,7 @@ Another different example: https://gist.github.com/danhakin/f02b05c4764073727d20
 
 # WPF
 It has received the exchange rate information at http://www.tcmb.gov.tr/kurlar/today.xml and displayed it in the wpf project.
+https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/Currency
 
 Sample Code : https://github.com/selenaysolmaz/dovizXMLex
 https://www.tutorialspoint.com/wpf/index.htm has been reviewed.
