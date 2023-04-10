@@ -46,6 +46,7 @@ Example 2: https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/
 
 # ExtensionMethods
 Extension methods are helper methods.
+https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/ExtensionMethodsExam
 
 * https://github.com/adessoTurkey-dotNET/LINQExtension
 
