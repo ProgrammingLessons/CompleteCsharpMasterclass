@@ -66,6 +66,16 @@ https://bhdryrdm.blogspot.com/2016/09/remote-debugging-nedir-ve-nasl-uygulanr.ht
 http://www.sinanbozkus.com/visual-studio-ile-remote-debugging-nasil-yapilir/
 https://www.youtube.com/watch?v=Eod7mC2W5VA
 
+# Loops
+In different loops such as for, foreach, while, do-while, which one is faster is a matter of curiosity. As a result of my research, how we use it is more important than which loop we should use. In the tests shared on the source sites, foreach is faster, in another test, for is faster, and in another test, while is faster.
+How we use the loop is important.
+What can be done to speed up the cycle;
+* Not unboxing and unboxing in the loop.
+* Not doing database operations in the loop as much as possible. Before the loop, it is necessary to pull the data from the database and process this data in the loop.
+* Get the number of elements of the list before the loop. It is necessary to specify so that as many loops can run as this number.
+![image](https://user-images.githubusercontent.com/29948990/231398210-829a1c88-ecff-4e80-8474-82152215782a.png)
+
+Operations like this will speed up our operations regardless of the cycle we use.
 <hr>
 
 I benefited from different resources during my udemy training.
