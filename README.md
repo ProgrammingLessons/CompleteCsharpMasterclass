@@ -82,6 +82,26 @@ Operations like this will speed up our operations regardless of the cycle we use
 * https://medium.com/@musheikh47/optimized-looping-in-c-d7a96f74d55a
 * https://www.aloneguid.uk/posts/2022/12/is-it-faster-to-enumerate-an-array-with-foreach-or-for-in-csharp/
 * https://www.codeproject.com/Articles/146797/Fast-and-Less-Fast-Loops-in-C
+
+
+# Lınq Expression vs. Lambda Epression
+
+There are two types of queries in Linq usage.
+* Query Syntax
+* Method Syntax(Lambda Expression)
+
+Lambda expression is actually Linq. It is considered Linq's method syntax.
+There is no speed difference between Method syntax and Queery syntax. The spellings are different. Among the programmers, there are those who use both methods in their own way.
+There are software developers who say that it is easy to use both methods.
+In my opinion, method syntax should be used in simple queries. However, method syntax is difficult to read for complex queries. For this, the use of Query syntax can be used for complex queries.
+
+
+* https://stackoverflow.com/questions/7391370/is-it-linq-or-lambda
+* https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/query-syntax-and-method-syntax-in-linq?redirectedfrom=MSDN
+* https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/bb397676(v=vs.100)?redirectedfrom=MSDN
+* https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
+* https://dotnetpattern.com/linq-query-method-syntax
+
 <hr>
 
 I benefited from different resources during my udemy training.
