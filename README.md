@@ -77,11 +77,11 @@ What can be done to speed up the cycle;
 
 Operations like this will speed up our operations regardless of the cycle we use.
 
-https://stackoverflow.com/questions/15247247/what-is-the-most-efficient-loop-in-c-sharp
-https://www.c-sharpcorner.com/article/performance-of-the-loops-in-c-sharp/
-https://medium.com/@musheikh47/optimized-looping-in-c-d7a96f74d55a
-https://www.aloneguid.uk/posts/2022/12/is-it-faster-to-enumerate-an-array-with-foreach-or-for-in-csharp/
-https://www.codeproject.com/Articles/146797/Fast-and-Less-Fast-Loops-in-C
+* https://stackoverflow.com/questions/15247247/what-is-the-most-efficient-loop-in-c-sharp
+* https://www.c-sharpcorner.com/article/performance-of-the-loops-in-c-sharp/
+* https://medium.com/@musheikh47/optimized-looping-in-c-d7a96f74d55a
+* https://www.aloneguid.uk/posts/2022/12/is-it-faster-to-enumerate-an-array-with-foreach-or-for-in-csharp/
+* https://www.codeproject.com/Articles/146797/Fast-and-Less-Fast-Loops-in-C
 <hr>
 
 I benefited from different resources during my udemy training.
