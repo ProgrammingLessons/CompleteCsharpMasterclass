@@ -84,7 +84,7 @@ Operations like this will speed up our operations regardless of the cycle we use
 * https://www.codeproject.com/Articles/146797/Fast-and-Less-Fast-Loops-in-C
 
 
-# Lınq Expression vs. Lambda Epression
+# Linq Expression vs. Lambda Expression
 
 There are two types of queries in Linq usage.
 * Query Syntax
