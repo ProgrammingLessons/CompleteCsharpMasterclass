@@ -59,6 +59,12 @@ https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/Dispos
 A mathematical code writing example has been made.
 https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/QuadraticEquation
 
+# Debugging
+I learned how to debug remote server while debugging. We learned that it is possible to work with remote debugging of the codes on the remote server, and in this way, problems such as file path problems, reading and writing to the file can be examined with this method.
+
+https://bhdryrdm.blogspot.com/2016/09/remote-debugging-nedir-ve-nasl-uygulanr.html
+http://www.sinanbozkus.com/visual-studio-ile-remote-debugging-nasil-yapilir/
+https://www.youtube.com/watch?v=Eod7mC2W5VA
 
 <hr>
 
