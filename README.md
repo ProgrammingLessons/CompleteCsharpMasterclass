@@ -14,6 +14,8 @@ References for polymorphism
 # Event Handler & Delegate
 Classes that handle publisher and subscriber operations like message brokers have been created. There is an example of capturing this message from the subscriber class after the message is broadcast from the broadcaster class.
 
+https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/EventDelegate
+
 * The code at https://gist.github.com/GorvGoyl/56e5ff46731d0861a173 has been reviewed.
 
 Another different example: https://gist.github.com/danhakin/f02b05c4764073727d20
@@ -21,6 +23,7 @@ Another different example: https://gist.github.com/danhakin/f02b05c4764073727d20
 
 # WPF
 It has received the exchange rate information at http://www.tcmb.gov.tr/kurlar/today.xml and displayed it in the wpf project.
+
 https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/Currency
 
 Sample Code : https://github.com/selenaysolmaz/dovizXMLex
@@ -29,6 +32,7 @@ https://www.tutorialspoint.com/wpf/index.htm has been reviewed.
 
 # Thread
 A structure has been made that allows two threads to communicate with each other.
+
 https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/ThreadExamp
 
 * https://www.c-sharpcorner.com/article/Threads-in-CSharp/
@@ -38,7 +42,9 @@ https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/Thread
 
 # ExpandoObject
 With C# 4.0, a new feature has been added with dynamic innovations. We can add fields or methods at runtime and use them.
+
 Example 1: https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/ExpandoObjectExam1
+
 Example 2: https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/DynamicWithVisitorPattern
 
 * https://www.ilkayilknur.com/expando-object-icerisine-dinamik-olarak-member-ekleme
@@ -62,9 +68,9 @@ https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/Quadra
 # Debugging
 I learned how to debug remote server while debugging. We learned that it is possible to work with remote debugging of the codes on the remote server, and in this way, problems such as file path problems, reading and writing to the file can be examined with this method.
 
-https://bhdryrdm.blogspot.com/2016/09/remote-debugging-nedir-ve-nasl-uygulanr.html
-http://www.sinanbozkus.com/visual-studio-ile-remote-debugging-nasil-yapilir/
-https://www.youtube.com/watch?v=Eod7mC2W5VA
+* https://bhdryrdm.blogspot.com/2016/09/remote-debugging-nedir-ve-nasl-uygulanr.html
+* http://www.sinanbozkus.com/visual-studio-ile-remote-debugging-nasil-yapilir/
+* https://www.youtube.com/watch?v=Eod7mC2W5VA
 
 # Loops
 In different loops such as for, foreach, while, do-while, which one is faster is a matter of curiosity. As a result of my research, how we use it is more important than which loop we should use. In the tests shared on the source sites, foreach is faster, in another test, for is faster, and in another test, while is faster.
