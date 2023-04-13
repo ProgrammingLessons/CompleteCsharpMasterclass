@@ -40,7 +40,7 @@ https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/Thread
 * https://github.com/shawnmullings/threading/blob/master/Threading/Program.cs
 
 
-# ExpandoObject
+# ExpandoObject(Dynamic Programming)
 With C# 4.0, a new feature has been added with dynamic innovations. We can add fields or methods at runtime and use them.
 
 Example 1: https://github.com/ProgrammingLessons/CompleteCsharpMasterclass/tree/main/ExpandoObjectExam1
